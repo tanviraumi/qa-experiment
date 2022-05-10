@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints
+http_ca.crt
+.python-version
+electronics-test.json
+electronics-train.json
+electronics-validation.json
+faiss_document_store.db
