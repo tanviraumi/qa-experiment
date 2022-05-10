@@ -6,3 +6,4 @@ electronics-test.json
 electronics-train.json
 electronics-validation.json
 faiss_document_store.db
+indexing_pipeline_with_classification.yaml
